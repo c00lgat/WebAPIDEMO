@@ -1,0 +1,6 @@
+@WebAPIDEMO_HostAddress = http://localhost:5007
+
+GET {{WebAPIDEMO_HostAddress}}/proteins
+Accept: application/json
+
+###
